@@ -64,6 +64,14 @@ export const siteConfig = {
       ],
     },
     {
+      company: "Girls Inc.",
+      title: "Event Volunteer",
+      dateRange: "2025",
+      bullets: [
+        "Led and assisted in teaching STEM concepts to grades K-2",
+      ],
+    },
+    {
       company: "Jersey Mikes",
       title: "Team Member",
       dateRange: "Jul 2022 - Jun 2023",
@@ -71,14 +79,6 @@ export const siteConfig = {
         "Assisted in training new employees",
         "Contributed 11 hours to Jersey Mikes Special Olympics fundraiser helping to raise $157,000",
         "Adhered to all food handling rules and regulations and quickly filled orders",
-      ],
-    },
-    {
-      company: "Girls Inc.",
-      title: "Event Volunteer",
-      dateRange: "2025",
-      bullets: [
-        "Led and assisted in teaching STEM concepts to grades K-2",
       ],
     },
   ],
